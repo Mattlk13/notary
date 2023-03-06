@@ -56,9 +56,9 @@ require (
 	github.com/spf13/pflag v1.0.0 // indirect
 	github.com/spf13/viper v0.0.0-20150530192845-be5ff3e4840c
 	github.com/stretchr/testify v1.4.0
-	golang.org/x/crypto v0.0.0-20190325154230-a5d413f7728c
-	golang.org/x/net v0.0.0-20160726221601-6a513affb38d
-	golang.org/x/sys v0.0.0-20190215142949-d0b11bdaac8a
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/net v0.7.0
+	golang.org/x/sys v0.5.0
 	google.golang.org/grpc v1.0.5
 	gopkg.in/fatih/pool.v2 v2.0.0-20150325163252-cba550ebf9bc // indirect
 	gopkg.in/gorethink/gorethink.v3 v3.0.5
